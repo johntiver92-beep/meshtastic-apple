@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+	<?xml version='1.0' encoding='ASCII' standalone='yes'?>
 <preferences>
   <preference version="1" name="cot_streams">
     <entry key="count" class="class java.lang.Integer">1</entry>
