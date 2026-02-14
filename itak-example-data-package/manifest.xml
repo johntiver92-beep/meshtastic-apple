@@ -1,4 +1,4 @@
-<MissionPackageManifest version="2">
+	<MissionPackageManifest version="2">
   <Configuration>
     <Parameter name="uid" value="bcfaa4a5-2224-4095-bbe3-fdaa22a82741"/>
     <Parameter name="name" value="testbox_DP"/>
